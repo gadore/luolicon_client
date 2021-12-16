@@ -1,5 +1,5 @@
 {
-  "serverHost":"http://795d20ed.vip.cpolar.cn/luoli",
+  "serverHost":"http://gadore.cpolar.io/luoli",
   "webSocketServerHost":"ws://192.168.3.251:8780",
   "requestTimeOut": 20000,
   "maxLogSize": 100,
